@@ -7,3 +7,8 @@
 **Accepted -** 4 \
 **Tried but not accepted -** 1 \
 **Total -** 5
+
+## PS - 3:
+**Accepted -** 5 \
+**Tried but not accepted -**  \
+**Total -** 8
