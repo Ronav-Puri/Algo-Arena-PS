@@ -12,3 +12,8 @@
 **Accepted -** 5 \
 **Tried but not accepted -**  \
 **Total -** 8
+
+## PS - 4:
+**Accepted -** 5 \
+**Tried but not accepted -**  \
+**Total -** 10
